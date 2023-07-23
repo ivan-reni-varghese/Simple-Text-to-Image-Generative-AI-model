@@ -2,6 +2,7 @@
 This is a simple text-to-speech generator built with the help of a model from Hugging Face - Stable Diffusion version 1.5
 
 
+Citation:
  @InProceedings{Rombach_2022_CVPR,
         author    = {Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn},
         title     = {High-Resolution Image Synthesis With Latent Diffusion Models},
